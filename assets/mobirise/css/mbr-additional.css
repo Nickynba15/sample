@@ -1089,6 +1089,9 @@ section.lazy-placeholder:after {
 .cid-rYkODggQLJ H2 {
   color: #ffffff;
 }
+#instagram-feed-block-1b .inst__title {
+  color: #232323;
+}
 .cid-rYYgKV7Ikf {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1166,4 +1169,7 @@ section.lazy-placeholder:after {
 }
 .cid-rYYgKV7Ikf .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-rYYgKV7Ikf foot-menu-item {
+  text-align: right;
 }
